@@ -1,7 +1,8 @@
 # Datastorm_CustomerSegementation
 
 # Enhancing Marketing Strategies through Customer Segmentation Analysis: A Case Study of KJ Marketing
-
+## Link to colab
+https://drive.google.com/file/d/1hc9x7CYMKQYPOLFInLWq6pxuIuFsvUQ_/view?usp=sharing
 ## Overview
 
 This project focuses on improving the marketing strategies of KJ Marketing, a leading retail supermarket chain in Sri Lanka, by leveraging customer segmentation analysis. Using historical sales data, we identified distinct customer clusters to tailor personalized marketing campaigns effectively. This repository contains the data preprocessing steps, exploratory data analysis (EDA), model building process, and insights derived from the analysis.
